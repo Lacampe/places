@@ -1,0 +1,12 @@
+dependencies: \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTTouchEvent.m \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTTouchEvent.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTAssert.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/romaincampech/code/places/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/romaincampech/code/places/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/romaincampech/code/places/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
